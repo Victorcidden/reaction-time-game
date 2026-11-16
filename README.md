@@ -1,24 +1,5 @@
 
 > Open this page at [https://victorcidden.github.io/reaction-time-game/](https://victorcidden.github.io/reaction-time-game/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/victorcidden/reaction-time-game** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/victorcidden/reaction-time-game** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+My readMe:
+I have been making a game in Microbit. It is a reaction game, where you test your reaction speed. If you have a microbit in real life, you can test it out by yourself and see the time you get. You can also play it with friends.
